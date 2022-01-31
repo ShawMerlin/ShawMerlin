@@ -1,5 +1,10 @@
-- 👋 Hi, I’m @ShawMerlin
-- 👀 I’m interested in Xbox 360 Modding and Software
+Xbox 360 Modding and Software - #ExtraLife Modding
+
+This are living lists and will be updated regularly.
+If a game you have is not being filtered correctly, please fill out the quick form below.
+It will be added to the next Release.
+
+https://forms.gle/DXb7cKVp3WoJJAgq7
 
 
 <!---
